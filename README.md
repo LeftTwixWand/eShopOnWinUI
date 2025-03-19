@@ -1,6 +1,6 @@
-# Inventory
+# eShopOnWinUI
 
-Inventory is a new version of [Microsoft Inventory sample](https://github.com/microsoft/inventorysample), built on WinUI 3, using DDD and Clean Architecture approach.
+eShopOnWinUI is a new version of [Microsoft Inventory sample](https://github.com/microsoft/inventorysample), built on WinUI 3, using DDD and Clean Architecture approach.
 
 The purpose of this repository is to demonstrate, how to build a modern desktop app, using latest technologies and architecture approaches.
 
