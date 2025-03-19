@@ -1,8 +1,4 @@
 <Solution>
-  <Folder Name="/Aspire/" Id="2863ced4-70ee-4273-b947-b68d6f9a2f6b">
-    <Project Path="src/eShopOnWinUI/eShopOnWinUI.AppHost/eShopOnWinUI.AppHost.csproj" Id="3f8f2159-ca0f-42ab-aea9-9eda34ba0db7" />
-    <Project Path="src/eShopOnWinUI/eShopOnWinUI.ServiceDefaults/eShopOnWinUI.ServiceDefaults.csproj" Id="593d2f55-1d13-463d-bb31-d74dd0c47702" />
-  </Folder>
   <Folder Name="/Solution Items/" Id="5843197b-335d-48c5-b3d2-15d37ee9bbde">
     <File Path="Directory.Packages.props" />
     <File Path="Settings.XamlStyler" />
