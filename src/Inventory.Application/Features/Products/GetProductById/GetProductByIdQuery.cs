@@ -1,5 +1,5 @@
 ﻿using System;
-using BuildingBlocks.Application.CQRS.Queries;
+using Inventory.Application.CQRS.Queries;
 using Inventory.Application.Models;
 
 namespace Inventory.Application.Features.Products.GetProductById;

@@ -1,4 +1,4 @@
-﻿using BuildingBlocks.Domain.BusinessRules;
+﻿using Inventory.Domain.SeedWork.BusinessRules;
 using Inventory.Domain.Shipments;
 
 namespace Inventory.Domain.Orders.Rules;

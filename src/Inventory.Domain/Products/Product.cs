@@ -1,5 +1,5 @@
-﻿using BuildingBlocks.Domain.Entities;
-using Inventory.Domain.Products.Rules;
+﻿using Inventory.Domain.Products.Rules;
+using Inventory.Domain.SeedWork.Entities;
 
 namespace Inventory.Domain.Products;
 

@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using BuildingBlocks.Application.CQRS.Commands;
+using Inventory.Application.CQRS.Commands;
 using Inventory.Domain.Documents;
 using Inventory.Domain.Orders;
 using Inventory.Domain.Products;

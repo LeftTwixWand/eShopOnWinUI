@@ -1,5 +1,5 @@
-﻿using BuildingBlocks.Domain.BusinessRules;
-using Inventory.Domain.OrderItems.Rules;
+﻿using Inventory.Domain.OrderItems.Rules;
+using Inventory.Domain.SeedWork.BusinessRules;
 
 namespace Inventory.Domain.Shipments.Rules;
 

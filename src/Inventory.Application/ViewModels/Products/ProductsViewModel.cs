@@ -2,13 +2,13 @@
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using BuildingBlocks.Application.ViewModels;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Inventory.Application.Features.Products.DeleteProducts;
 using Inventory.Application.Features.Products.GetProducts;
 using Inventory.Application.Models;
 using Inventory.Application.Services.Navigation;
+using Inventory.Application.ViewModels.Generic;
 using Inventory.Application.ViewModels.Product;
 using MediatR;
 

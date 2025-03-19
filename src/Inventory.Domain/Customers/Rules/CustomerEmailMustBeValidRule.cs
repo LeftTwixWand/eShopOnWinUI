@@ -1,5 +1,5 @@
-﻿using BuildingBlocks.Domain.BusinessRules;
-using CommunityToolkit.Common;
+﻿using CommunityToolkit.Common;
+using Inventory.Domain.SeedWork.BusinessRules;
 
 namespace Inventory.Domain.Customers.Rules;
 

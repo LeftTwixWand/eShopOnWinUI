@@ -1,7 +1,7 @@
-﻿using BuildingBlocks.Domain.AggregateRoots;
-using BuildingBlocks.Domain.Entities;
-using Inventory.Domain.Documents;
+﻿using Inventory.Domain.Documents;
 using Inventory.Domain.Products;
+using Inventory.Domain.SeedWork.AggregateRoots;
+using Inventory.Domain.SeedWork.Entities;
 using Inventory.Domain.Warehouses.Events;
 using Inventory.Domain.Warehouses.Projections;
 using Inventory.Domain.Warehouses.Rules;

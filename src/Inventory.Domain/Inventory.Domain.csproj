@@ -8,10 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="CommunityToolkit.Common" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\BuildingBlocks\BuildingBlocks.Domain\BuildingBlocks.Domain.csproj" />
+    <PackageReference Include="MediatR" />
   </ItemGroup>
 
   <ItemGroup>

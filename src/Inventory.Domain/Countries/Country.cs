@@ -1,5 +1,5 @@
-﻿using BuildingBlocks.Domain.Enumerations;
-using Inventory.Domain.Countries.Rules;
+﻿using Inventory.Domain.Countries.Rules;
+using Inventory.Domain.SeedWork.Enumerations;
 
 namespace Inventory.Domain.Countries;
 

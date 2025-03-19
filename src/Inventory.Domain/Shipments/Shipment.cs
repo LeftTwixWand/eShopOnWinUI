@@ -1,5 +1,5 @@
-﻿using BuildingBlocks.Domain.Entities;
-using Inventory.Domain.Countries;
+﻿using Inventory.Domain.Countries;
+using Inventory.Domain.SeedWork.Entities;
 using Inventory.Domain.Shipments.Rules;
 
 namespace Inventory.Domain.Shipments;

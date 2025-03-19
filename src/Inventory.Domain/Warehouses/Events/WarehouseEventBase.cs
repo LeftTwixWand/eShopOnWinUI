@@ -1,6 +1,6 @@
-﻿using BuildingBlocks.Domain.Events;
-using Inventory.Domain.Documents;
+﻿using Inventory.Domain.Documents;
 using Inventory.Domain.Products;
+using Inventory.Domain.SeedWork.Events;
 
 namespace Inventory.Domain.Warehouses.Events;
 

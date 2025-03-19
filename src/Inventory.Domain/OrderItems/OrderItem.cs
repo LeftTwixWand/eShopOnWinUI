@@ -1,6 +1,6 @@
-﻿using BuildingBlocks.Domain.Entities;
-using Inventory.Domain.OrderItems.Rules;
+﻿using Inventory.Domain.OrderItems.Rules;
 using Inventory.Domain.Products;
+using Inventory.Domain.SeedWork.Entities;
 
 namespace Inventory.Domain.OrderItems;
 

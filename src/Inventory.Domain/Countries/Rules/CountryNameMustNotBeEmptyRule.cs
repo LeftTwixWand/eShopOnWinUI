@@ -1,4 +1,4 @@
-﻿using BuildingBlocks.Domain.BusinessRules;
+﻿using Inventory.Domain.SeedWork.BusinessRules;
 
 namespace Inventory.Domain.Countries.Rules;
 

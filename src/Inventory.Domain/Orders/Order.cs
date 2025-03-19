@@ -1,8 +1,8 @@
-﻿using BuildingBlocks.Domain.AggregateRoots;
-using BuildingBlocks.Domain.Entities;
-using Inventory.Domain.Customers;
+﻿using Inventory.Domain.Customers;
 using Inventory.Domain.OrderItems;
 using Inventory.Domain.Orders.Rules;
+using Inventory.Domain.SeedWork.AggregateRoots;
+using Inventory.Domain.SeedWork.Entities;
 using Inventory.Domain.Shipments;
 
 namespace Inventory.Domain.Orders;
