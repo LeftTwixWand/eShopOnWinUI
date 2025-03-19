@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+
+    <!--  All the custom style in the Presentation layer must to be registered in this file.  -->
+
+    <ResourceDictionary.MergedDictionaries>
+
+        <ResourceDictionary Source="ms-appx:///eShopOnWinUI.Presentation/Styles/Thickness/Thickness.xaml" />
+        <ResourceDictionary Source="ms-appx:///eShopOnWinUI.Presentation/Styles/TextBlock/TextBlock.xaml" />
+        <ResourceDictionary Source="ms-appx:///eShopOnWinUI.Presentation/Styles/FontSize/FontSizes.xaml" />
+
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>

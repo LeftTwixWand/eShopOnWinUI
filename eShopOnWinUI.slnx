@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/" Id="5843197b-335d-48c5-b3d2-15d37ee9bbde">
+    <File Path="Directory.Packages.props" />
+    <File Path="Settings.XamlStyler" />
+  </Folder>
+  <Project Path="src/eShopOnWinUI.Application/eShopOnWinUI.Application.csproj" Id="c65e0fea-3a11-4121-8dfc-2452aae35855" />
+  <Project Path="src/eShopOnWinUI.Domain/eShopOnWinUI.Domain.csproj" Id="f68c4f09-03e2-4060-b913-d54933d15243" />
+  <Project Path="src/eShopOnWinUI.Infrastructure/eShopOnWinUI.Infrastructure.csproj" Id="e15cf14f-af32-43ba-891c-6de1d6058988">
+    <Platform Project="x64" />
+    <Deploy />
+  </Project>
+  <Project Path="src/eShopOnWinUI.Persistence/eShopOnWinUI.Persistence.csproj" Id="26ac498a-6f0d-4062-85f8-35e1d82e1aa3" />
+  <Project Path="src/eShopOnWinUI.Presentation/eShopOnWinUI.Presentation.csproj" Id="34a619ca-4f6c-415a-ab4f-2a6c9a2ef81a" />
+</Solution>

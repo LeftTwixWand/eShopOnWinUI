@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "eShopOnWinUI.Infrastructure (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "eShopOnWinUI.Infrastructure (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
