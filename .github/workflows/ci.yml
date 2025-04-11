@@ -28,7 +28,7 @@ jobs:
       run: dotnet restore
               
     - name: Build
-      run: msbuild Inventory.slnx
+      run: msbuild eShopOnWinUI.slnx
   
     - name: Run tests
       run: dotnet test
